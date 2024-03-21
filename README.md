@@ -1,4 +1,4 @@
-# seminar2
+# workflow
 
 A new Flutter project.
 

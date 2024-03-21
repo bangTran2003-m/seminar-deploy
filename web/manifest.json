@@ -1,6 +1,6 @@
 {
-    "name": "seminar2",
-    "short_name": "seminar2",
+    "name": "workflow",
+    "short_name": "workflow",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
